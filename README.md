@@ -2,6 +2,7 @@
 When testing Hive, this is what enviroment I will be using, if you are having issues then you may want to use this.
 
 Other developers are encuraged to try variations and different enviroments, Hive needs to be adapatble. Remember to report your bugs.
+If you want to track your enviromemt then create a branch and make your changes there. For ease of identifying which branch who's, please name the branch after yourself.
 
 # Links
 MC: http://minecraft.net
