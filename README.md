@@ -4,16 +4,18 @@ When testing Hive, this is what enviroment I will be using, if you are having is
 Other developers are encuraged to try variations and different enviroments, Hive needs to be adapatble. Remember to report your bugs.
 If you want to track your enviromemt then create a branch and make your changes there. For ease of identifying which branch who's, please name the branch after yourself.
 
+Note: This is technicaly a mod pack, follow the licenses of the mods your are using.
+
 # Links
 MC: http://minecraft.net
 
 Forge: http://files.minecraftforge.net/
 
-ComputerCraft: http://www.computercraft.info/
+ComputerCraft by Dan200: http://www.computercraft.info/
 
-CCTweaks: http://minecraft.curseforge.com/projects/cctweaks
+CCTweaks by SquidDev: http://minecraft.curseforge.com/projects/cctweaks
 
-KnightPeripherals: http://minecraft.curseforge.com/projects/knightperipherals
+KnightPeripherals by KnightMiner: http://minecraft.curseforge.com/projects/knightperipherals
 
 # Lupus590's Versions
 Excludes what's tracked in the repo.
