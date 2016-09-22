@@ -1,0 +1,6 @@
+MC: http://minecraft.net
+Forge: http://files.minecraftforge.net/
+
+ComputerCraft: http://www.computercraft.info/
+CCTweaks: http://minecraft.curseforge.com/projects/cctweaks
+KnightPeripherals: http://minecraft.curseforge.com/projects/knightperipherals
