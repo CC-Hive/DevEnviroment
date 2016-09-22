@@ -7,9 +7,9 @@ If you want to track your enviromemt then create a branch and make your changes 
 Note: This is technicaly a mod pack, follow the licenses of the mods your are using.
 
 # Links
-MC: http://minecraft.net
+MC by Mojang Synergies AB: http://minecraft.net
 
-Forge: http://files.minecraftforge.net/
+Forge by Forge Development LLC: http://files.minecraftforge.net/
 
 ComputerCraft by Dan200: http://www.computercraft.info/
 
