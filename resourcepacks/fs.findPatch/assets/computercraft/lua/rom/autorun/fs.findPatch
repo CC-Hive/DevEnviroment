@@ -1,0 +1,13 @@
+local old_FS_Find = fs.find
+
+function fs.find(wildcard)
+  if string.find(wildcard, "*") then
+        return old_FS_Find(wildcard)
+  else
+        if fs.exists(shell.resolve(wildcard)) then
+         return {shell.resolve(wildcard)}
+        else
+         return {}
+        end
+  end
+end
