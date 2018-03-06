@@ -17,9 +17,9 @@ CCTweaks by SquidDev: http://minecraft.curseforge.com/projects/cctweaks
 
 KnightPeripherals by KnightMiner: http://minecraft.curseforge.com/projects/knightperipherals
 
-Plethora by SquidDev: https://mods.curse.com/mc-mods/minecraft/248425-plethora-peripherals
+Plethora by SquidDev: https://minecraft.curseforge.com/projects/plethora-peripherals
 
-Just Enough Items by mezz: https://mods.curse.com/mc-mods/minecraft/238222-just-enough-items-jei
+Just Enough Items by mezz: https://minecraft.curseforge.com/projects/jei
 
 FTB Utilities by FTB_ModpackTeam and LatvianModder: https://minecraft.curseforge.com/projects/ftb-utilities
 
