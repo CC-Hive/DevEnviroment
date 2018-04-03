@@ -1,21 +1,17 @@
 # This is Lupus590's Minecraft Instance
-When testing Hive, this is what enviroment I will be using, if you are having issues then you may want to use this.
+When testing Hive, this is what environment I will be using, if you are having issues then you may want to use this.
 
-Other developers are encouraged to try variations and different enviroments, Hive needs to be adapatible. Remember to report your bugs.
-If you want to track your enviromemt then create a branch and make your changes there. For ease of identifying which branch is who's, please name your branch after yourself.
+Other developers are encouraged to try variations and different environments, Hive needs to be adaptable. Remember to report your bugs.
+If you want to track your environment then create a branch and make your changes there. For ease of identifying which branch is who's, please name your branch after yourself.
 
-Note: This is technicaly a mod pack, follow the licenses of the mods your are using.
+Note: This is technical a mod pack, follow the licenses of the mods your are using.
 
 # Links
 MC by Mojang Synergies AB: http://minecraft.net
 
 Forge by Forge Development LLC: http://files.minecraftforge.net/
 
-ComputerCraft by Dan200: http://www.computercraft.info/
-
-CCTweaks by SquidDev: http://minecraft.curseforge.com/projects/cctweaks
-
-KnightPeripherals by KnightMiner: http://minecraft.curseforge.com/projects/knightperipherals
+CC: Tweaked by Dan200, SquidDev, et al.: https://minecraft.curseforge.com/projects/cc-tweaked
 
 Plethora by SquidDev: https://minecraft.curseforge.com/projects/plethora-peripherals
 
@@ -28,11 +24,11 @@ FTBLib by FTB_ModpackTeam, jaredlll08 and LatvianModder: https://minecraft.curse
 # Lupus590's Versions
 Excludes what's tracked in the repo.
 
-MC: 1.8.9
+MC: 1.12.2
 
-Forge: 11.15.1.2318 (Installer is now in Repo, version bump due to me remaking my setup after a PC reset - Lupus590)
+Forge: See installer in repo
 
-Note: I have programming stuff in my resource pack folder (which is on the gitignore list), if code is broken because it's using something exernal then this is why. Please [yell at me](https://github.com/CC-Hive/DevEnviroment/issues/new). FYI, that resource pack is available [here](https://github.com/lupus590/CC-My-Code-Pack). _Why not use a submodule?_ Because not eveything in the resource pack is something that Hive may use, which will make the repo a mess, should Hive end up using one of the things in the resource pack I will copy it to Hive's repo. On the subject of Hive and resorce packs, I keep Hive in a resorce pack, but this may change once I need to run Howl.
+Note: I have programming stuff in my resource pack folder (which is on the gitignore list), if code is broken because it's using something external then this is why. Please [yell at me](https://github.com/CC-Hive/DevEnviroment/issues/new). FYI, that resource pack is available [here](https://github.com/lupus590/CC-My-Code-Pack). _Why not use a submodule?_ Because not everything in the resource pack is something that Hive may use, which will make the repo a mess, should Hive end up using one of the things in the resource pack I will copy it to Hive's repo. On the subject of Hive and resource packs, I keep Hive in a resource pack, but this may change once I need to run Howl.
 
 # Lupus590's World Seed
-Not that it should matter, but here it is anyways: -2734113556830341606
+Not that it should matter, but here it is anyways: HIVEDEV
