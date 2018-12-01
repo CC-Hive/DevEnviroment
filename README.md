@@ -26,7 +26,7 @@ Excludes what's tracked in the repo.
 
 MC: 1.12.2
 
-Forge: See installer in repo
+Forge: ~~See installer in repo~~ 14.23.5.2768 (installed via [MultiMC](https://multimc.org/))
 
 Note: I have programming stuff in my resource pack folder (which is on the gitignore list), if code is broken because it's using something external then this is why. Please [yell at me](https://github.com/CC-Hive/DevEnviroment/issues/new). FYI, that resource pack is available [here](https://github.com/lupus590/CC-My-Code-Pack). _Why not use a submodule?_ Because not everything in the resource pack is something that Hive may use, which will make the repo a mess, should Hive end up using one of the things in the resource pack I will copy it to Hive's repo. On the subject of Hive and resource packs, I keep Hive in a resource pack, but this may change once I need to run Howl.
 
